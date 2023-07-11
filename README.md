@@ -7,7 +7,10 @@
 ---
 
 ## Current Task: Clone Repository
+
 ### Member Who Must Complete: Everyone
+*Reminder: The steps in this exercise must be completed in order. Please do not proceed past the step currently shown in this README.*
+
 ### Option 1: Use Git CLI
 1. Select the green "Code" button at the top-right of the repository and copy the repository's URL address under the HTTPS section.
 2. In File Explorer (for Windows) or Finder (for Mac), open a Terminal session at the location where you would like to clone the repository.
