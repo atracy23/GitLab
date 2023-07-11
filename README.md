@@ -1,7 +1,7 @@
 # Welcome to GitLab
 - Release Manager: Micah Smith
 - Developer 1: TBD
-- Developer 2: TBD
+- Developer 2: Joseph Youskievicz
 - Developer 3: TBD
 
 ---
