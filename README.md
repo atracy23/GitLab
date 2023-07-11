@@ -7,6 +7,7 @@
 ---
 
 ## Current Task: Clone Repository
+To collaborate with one another on this project, we will each need to have a local copy of the repository to store our work in. We will start the exercise by performing a *clone* of the repository.
 
 ### Member Who Must Complete: Everyone
 *Reminder: The steps in this exercise must be completed in order. Please do not proceed past the step currently shown in this README.*
