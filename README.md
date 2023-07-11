@@ -1,8 +1,8 @@
 # Welcome to GitLab
 - Release Manager: Micah Smith
-- Developer 1: TBD
+- Developer 1: Angela Tracy
 - Developer 2: Joseph Youskievicz
-- Developer 3: TBD
+- Developer 3: Mishaela Pederson
 
 ---
 
