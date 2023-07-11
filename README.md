@@ -6,7 +6,7 @@
 
 ---
 
-## Current Task
+## Current Task: Clone Repository
 ### Member Who Must Complete: Everyone
 ### Option 1: Use Git CLI
 1. Select the green "Code" button at the top-right of the repository and copy the repository's URL address under the HTTPS section.
