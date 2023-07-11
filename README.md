@@ -9,8 +9,9 @@
 ## Current Task: Clone Repository
 To collaborate with one another on this project, we will each need to have a local copy of the repository to store our work in. We will start the exercise by performing a *clone* of the repository.
 
+*Reminder: The steps in this exercise must be completed in order. Please do not proceed past the steps currently shown in this README.*
+
 ### Member Who Must Complete: Everyone
-*Reminder: The steps in this exercise must be completed in order. Please do not proceed past the step currently shown in this README.*
 
 ### Option 1: Use Git CLI
 1. Select the green "Code" button at the top-right of the repository and copy the repository's URL address under the HTTPS section.
