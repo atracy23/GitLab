@@ -6,20 +6,26 @@
 
 ---
 
-## Current Task: Clone Repository
-To collaborate with one another on this project, we will each need to have a local copy of the repository to store our work in. We will start the exercise by performing a *clone* of the repository.
+## Current Task: Create "quotes" branch
+The repository has a nice start it to, but needs some more content. For this step, we will need a *quotes* branch with some new changes.
 
 *Reminder: The steps in this exercise must be completed in order. Please do not proceed past the steps currently shown in this README.*
 
-### Member Who Must Complete: Everyone
+### Member Who Must Complete: Developer 2
 
 ### Option 1: Use Git CLI
-1. Select the green "Code" button at the top-right of the repository and copy the repository's URL address under the HTTPS section.
-2. In File Explorer (for Windows) or Finder (for Mac), open a Terminal session at the location where you would like to clone the repository.
-3. Execute the command *git clone [url-address]*.
+1. Open a new Terminal session in your local repository.
+2. Pull the latest changes from origin with the command *git fetch*.
+3. Create a new branch with the command *git checkout -b quotes*.
+4. Open *index.html* in your preferred text editor or IDE and add an *h1* element 
+5. Give *index.html* a title.
+6. Add a *blockquote* element containing your favorite quote and the author of the quote.
+7. Create the file *styles.css*.
+8. Stage all changes with the command *git add .* (Remember to include the period!).
+9. Commit your staged changes with the command *git commit -m [Message]* and include a message in quotes that summarizes the commit.
+10. Push the commit to origin with the command *git push -u origin quotes*.
+11. Create a pull request in origin.
 
 ### Option 2: Use GitHub Desktop
-1. Select the green "Code" button at the top-right of the repository and copy the repository's URL address under the HTTPS section.
-2. In GitHub Desktop, select "Clone Repository from the Internet" or go to File -> Clone Repository.
-3. Under the URL section, paste the repository's HTTPS URL and choose the location under Local path where you would like to clone the repository.
-4. Select *Clone*.
+1. Under the *Current branch* tab, click the *New branch* button.
+1. Enter the name of the new branch, *quotes*.
