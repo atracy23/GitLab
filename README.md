@@ -7,11 +7,11 @@
 ---
 
 ## Current Task: Create "quotes" branch
-The repository has a nice start it to, but needs some more content, like a good quote from a famous person. For this step, we will need a *quotes* branch with some new changes.
+The repository has a nice start to it but needs some more content, like a good quote from a famous person. For this step, we will need a *quotes* branch with some new changes.
 
 *Reminder: The steps in this exercise must be completed in order. Please do not proceed past the steps currently shown in this README.*
 
-### Member Who Must Complete: Developer 2
+### Member Who Must Complete: Developer 2 - Joseph
 
 ### Option 1: Use Git CLI
 1. Open a new Terminal session in your local repository.
@@ -33,9 +33,8 @@ The repository has a nice start it to, but needs some more content, like a good 
 4. Give *index.html* a title.
 5. Add a *blockquote* element containing your favorite quote and the author of the quote.
 6. Create the file *styles.css*.
-7. Create the file *styles.css*.
-8. In GitHub Desktop, ensure that each file is staged by checking the box next to the file name.
-9. Enter a Sumamary and Description of the commit in the bottom left corner.
-10. Click *Commit to quotes*.
-11. Publish the new branch with your commit by clicking *Publish branch* at the top.
-12. Create a pull request in origin.
+7. In GitHub Desktop, ensure that each file is staged by checking the box next to the file name.
+8. Enter a Summary and Description of the commit in the bottom left corner.
+9. Click *Commit to quotes*.
+10. Publish the new branch with your commit to origin by clicking *Publish branch* at the top.
+11. Create a pull request in origin.
